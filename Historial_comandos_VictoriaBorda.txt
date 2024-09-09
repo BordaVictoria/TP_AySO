@@ -1,0 +1,125 @@
+ls
+whoami
+pwd
+man man
+ls -l
+ls-la
+ls -la
+man man 
+echo "hola"
+echo $HOME
+cd repogit
+ls
+clear
+ls -la
+cd ..
+ls
+cad README 
+cat README 
+git clone https://github.com/BordaVictoria/Borda_vagrant.git
+ls
+cd Borda_vagrant/
+ls
+history > historial.txt
+ls
+cat historial.txt 
+git status
+git add .
+git status
+git commit -m "Alo"
+git config --global user.email "bordavictoria@hotmail.com"
+git config --global user.name "BordaVictoria"
+git commit -m "Alo"
+git push 
+git push
+Borda Victoria
+exit
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep proce
+man man
+history
+cat /proc/cpuinfo | grep proce
+cat/etc/passwd
+cat etc/passwd
+cat /etc/passwd
+cat /etc/shadow
+sudo cat /etc/shadow
+exit
+ls
+cd repogit
+git clone git@github.com:BordaVictoria/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/oc-release
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url / etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --global user.email "bordavictoria@hotmail.com"
+git config --global user.name "BordaVictoria"
+git commit -m
+git commit -m" ADD: Agregado 1er ejercicio sobre datos_usuarios.yxt"
+git status
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+git add . 
+git status
+ls
+cat datos_usuario.txt
+git commit -m " feat: Añadiendo informacion de CPU "
+grep -v nologin / etc/passwd >lista_ordenada
+grep -v nologin /etc/passwd >lista_ordenada
+ls
+man sort
+sort lista_ordenada -t "." -k7>lista_ordenada
+ls
+cat lista_ordenada
+cat | grep -v nologin /etc/passwd 
+cat /etc/passwd
+cat head etc/passwd | grep -v nologin 
+head cat etc/passwd | grep -v nologin
+head etc/passwd | grep -v nologin
+head /etc/passwd |grep -v nologin
+head /etd/passwd
+head /etc/passwd
+cat  head /etc/passwd | grep -v nologin 
+grep -v nologin head /etc/passwd 
+cat etc/passwd | grep -v nologin
+cat /etc/passwd | grep -v nologin
+grep -v nologin /etc/passwd >lista_ordenada.txt
+ls
+rm -d lista_ordenada
+ls
+sort lista_ordenada -t"." -k7
+sort lista_ordenada.txt -t"." -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 >lista_ordenada.txt
+cat lista_ordenada.txt 
+git add .
+git commit -m " ADD: listado usuarios ordenada " 
+man sor
+man sort
+man man 
+man dump traffic
+man comando_dump_net
+apropos "dump traffic" > comando_dump_net
+ls
+cat comando_dump_net
+git add .
+git commit -m " ADD: comando para capurar y analizar el trafico de red " 
+cat << EOF >> README.md
+Alumno : Borda Victoria
+Division: 113
+Turno : Mañana 
+FIN
+EOF
+
+git add .
+git commit -m "docs : Añadiendo nombre y datos del alumno al readme"
+history -a $HOME/.bash_history
+ls -la $HOME
+history -a $HOME/.bash_history
